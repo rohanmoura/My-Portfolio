@@ -18,7 +18,7 @@ import codeburst from "../../public/images/codebrust.png";
 import NPTELpython from "../../public/images/NPTELpython.jpeg";
 import forge from "../../public/images/forge.png";
 import AICTE from "../../public/images/AICTE.jpg";
-import portfolioHomePage from "../../public/images/portfolioHomePage.png";
+import port from "../../public/images/port.png";
 const worksans = Work_Sans({ subsets: ["latin"], weight: ["500"] });
 
 const aboutData =
@@ -97,12 +97,12 @@ const projects = [
     webapp: "https://signal-ashen.vercel.app/",
   },
   {
-    thumbnail: portfolioHomePage,
+    thumbnail: port,
     title: "Personal Portfolio Website",
     desc: "This is my Portfolio Website built using Nextjs and Tailwind. This website is SEO optimized as this is built using Next.js server-side rendering. This Professional Portfolio Website displays all the info. ,projects and Achievements with a Contact Section integrated with Nodemailer for mail service.",
     techUsed: ["Next.js", "Tailwind"],
-    github: "https://github.com/Sami-07/abdulsami",
-    webapp: "https://abdulsami-sami-07.vercel.app/",
+    github: "https://github.com/rohanmoura/My-Portfolio",
+    webapp: "https://my-portfolio-one-theta-85.vercel.app/",
   },
 ];
 const achievements = [
