@@ -102,7 +102,7 @@ const projects = [
     desc: "This is my Portfolio Website built using Nextjs and Tailwind. This website is SEO optimized as this is built using Next.js server-side rendering. This Professional Portfolio Website displays all the info. ,projects and Achievements with a Contact Section integrated with Nodemailer for mail service.",
     techUsed: ["Next.js", "Tailwind"],
     github: "https://github.com/rohanmoura/My-Portfolio",
-    webapp: "https://my-portfolio-one-theta-85.vercel.app/",
+    webapp: "https://my-portfolio-i3paqontj-rohans-projects-739caa5d.vercel.app/",
   },
 ];
 const achievements = [
