@@ -12,12 +12,12 @@ export default function Navbar({ setToggle, closeNav, toggle }) {
     return (
         <div>
             <nav className="bg-myprimecolor z-10 h-16 flex justify-between items-center pl-2 md:pl-10 md:pr-10 pr-4 fixed w-full" >
-                <div onClick={() => {
+                {/* <div onClick={() => {
 
                     window.scrollTo(0, 0);
                 }}>
                     <Image src={"/images/logo.svg"} width={40} height={40} alt="logo" />
-                </div>
+                </div> */}
                 <div className=" gap-10 text-xl hidden md:flex">
                     <a onClick={() => {
                         window.scrollTo(0, 0);
